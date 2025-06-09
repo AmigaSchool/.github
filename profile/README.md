@@ -2,7 +2,7 @@
 
 This is a new beginning for an old line of computers. Prepare to learn about hardware and software at...
 
-# Amiga School
+# Amiga Computer School
 <!--
 
 **Here are some ideas to get you started:**
